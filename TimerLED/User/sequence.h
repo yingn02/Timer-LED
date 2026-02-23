@@ -1,1 +1,0 @@
-void led_sequence_init(void);
