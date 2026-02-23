@@ -1,0 +1,22 @@
+# --- 빌드 결과물 및 임시 파일 (컴파일 시마다 바뀌므로 제외) ---
+obj/
+bin/
+Ld/
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+
+# --- 로컬 사용자 설정 (내 컴퓨터의 경로 등이 저장되어 있어 제외) ---
+.settings/
+.metadata/
+*.launch
+
+# --- OS 및 기타 ---
+.DS_Store
+Thumbs.db
